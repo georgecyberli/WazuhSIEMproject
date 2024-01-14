@@ -12,3 +12,11 @@ I implemented the Wazuh Open Source SIEM as our company's first centralized even
 1. [Installation](https://github.com/georgecyberli/WazuhInstallation)
 2. [Deplaying Wazuh Agents]
 3. [Vulnerability & Alert Configuration](https://github.com/georgecyberli/VulnerabilityAlertConf)
+
+
+<br />
+<br />
+<br />
+
+
+<a href="https://github.com/georgecyberli" class="button icon back">Previous Page</a>
