@@ -19,4 +19,4 @@ I implemented the Wazuh Open Source SIEM as our company's first centralized even
 <br />
 
 
-<a href="https://github.com/georgecyberli" class="button icon back">Previous Page</a>
+<a href="https://github.com/georgecyberli" class="button icon back">Back to Portfolio Page</a>
