@@ -3,7 +3,7 @@
 
 <h2>Description</h2>
 
-I implemented the Wazuh Open Source SIEM as our company's first centralized event log monitoring system, focusing on active endpoint monitoring. Opting for the open-source platform was a strategic choice for cost-saving without compromising security. The SIEM setup, with alert capabilities on Slack, ensures swift response to unusual activities, marking a milestone in advancing our cybersecurity infrastructure. This pioneering effort not only highlights my dedication to advancing our cybersecurity infrastructure but also showcases the benefits of a SIEM solution for proactive threat detection and response.
+Implemented the Wazuh Open Source SIEM as our company's first centralized event log monitoring system, focusing on active endpoint monitoring. Opting for the open-source platform was a strategic choice for cost-saving without compromising security. The SIEM setup, with alert capabilities on Slack, ensures swift response to unusual activities, marking a milestone in advancing our cybersecurity infrastructure. This pioneering effort not only highlights my dedication to advancing our cybersecurity infrastructure but also showcases the benefits of a SIEM solution for proactive threat detection and response.
 <br />
 
 
